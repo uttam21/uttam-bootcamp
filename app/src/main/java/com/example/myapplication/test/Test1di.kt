@@ -1,5 +1,8 @@
 package com.example.myapplication.test
+//Syntax is correct but how can we do this better in design perspective
 
+
+// ANSWER is : DEPENDENCY injection
 fun main(){
     Car().start()
     Car().move()
